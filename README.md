@@ -1,6 +1,6 @@
 # 👁️‍🗨️ Baserh
 
-**Baserh** (Arabic for "insight") is a graduation project designed to empower visually impaired users by helping them recognize surrounding objects through real-time camera analysis and spoken feedback.  
+**Baserh** (Arabic for "insight") is designed to empower visually impaired users by helping them recognize surrounding objects through real-time camera analysis and spoken feedback.  
 Built with SwiftUI and Apple's CoreML framework, the app combines AI and accessibility into one meaningful tool.
 
 ---
